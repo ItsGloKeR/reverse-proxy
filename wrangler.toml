@@ -1,0 +1,3 @@
+name = "aenime-r"
+main = "src/index.js"
+compatibility_date = "2025-10-05"
