@@ -2,7 +2,6 @@ import { Hono } from 'hono';
 import { cors } from 'hono/cors';
 
 const app = new Hono();
-const port = process.env.PORT || 4000 
 
 app.use(
 	'*',
